@@ -28,9 +28,6 @@ The model predicts the likelihood of customer churn based on various demographic
 ┌ 📂 Customer Churn Prediction  
 └ 🐱 [GitHub Repo](https://github.com/ziaee-mohammad/Customer-Churn-Prediction)
 
----
-
-> *Goal:* Help businesses proactively identify and retain customers likely to leave using deep learning-powered prediction.
 >
 > ---
 >
@@ -38,3 +35,8 @@ The model predicts the likelihood of customer churn based on various demographic
 *Mohammad Ziaee*  
 📍 Computer Science Graduate Student | AI & Data Science Enthusiast  
 🔗 [GitHub Profile](https://github.com/ziaee-mohammad)
+
+
+*Goal:* Help businesses proactively identify and retain customers likely to leave using deep learning-powered prediction.
+
+
